@@ -19,3 +19,4 @@ Cara menjalankan
 Maka akan secara otomatis mengarahkan pada web streamlit
 
 Jika ingin mengakses web streamlit menggunakan device berbeda dalam jaringan yang sama, masukkan URL yang sama sesuai dengan URL yang diarahkan sebelumnya
+Port streamlit yaitu 8501
